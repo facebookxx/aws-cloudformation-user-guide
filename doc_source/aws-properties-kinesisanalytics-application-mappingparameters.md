@@ -1,4 +1,4 @@
-# AWS::KinesisAnalytics::Application MappingParameters<a name="aws-properties-kinesisanalytics-application-mappingparameters"></a>
+# AWS::KinesisAnalytics::Application MappingParameters<a name="github-mappingparameters"></a>
 
 When configuring application input at the time of creating or updating an application, provides additional mapping information specific to the record format \(such as JSON, CSV, or record fields delimited by some delimiter\) on the streaming source\.
 
